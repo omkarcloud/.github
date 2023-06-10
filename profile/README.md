@@ -2,11 +2,11 @@ Hey, this is us 👋
 
 ![card](https://www.omkar.cloud/om-startup-framework/img/twitter-card.png)
 
-## Projects
+## Omkar Projects
 
 ### Omkar Cloud
 
-I scraped over 300 million LinkedIn profiles to extract their company details and emails, making them accessible through a powerful search engine. Omkar Cloud is an advanced version of LinkedIn Sales Navigator.
+### Scraped over 300 million LinkedIn profiles to extract their company details and emails, making them accessible through a powerful search engine. Omkar Cloud is an advanced version of LinkedIn Sales Navigator.
 
 Project: [Omkar Cloud](https://www.omkar.cloud/)
 
