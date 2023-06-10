@@ -1,6 +1,6 @@
 Hey, this is us 👋
 
-[card](https://www.omkar.cloud/om-startup-framework/img/twitter-card.png)
+![card](https://www.omkar.cloud/om-startup-framework/img/twitter-card.png)
 
 ## Projects
 
