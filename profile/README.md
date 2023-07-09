@@ -33,7 +33,7 @@ Project: [Google Maps Scraper](https://github.com/omkarcloud/google-maps-scrape
 
 Project: [Omkar DevTools](https://www.omkar.cloud/devtools/)
 
-If you're in need of custom scrapers, look no further! We are a team of professional scrapers ready to assist you. For requesting custom scrapers, please contact chetan@omkar.cloud.
+If you're in need of custom scrapers, please contact chetan@omkar.cloud to discuus your needs.
 
 Thanks, 
 
