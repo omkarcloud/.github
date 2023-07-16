@@ -3,7 +3,6 @@
 </p>
   <div align="center" style="margin-top: 0;">
   <h1>✨ .github ✨</h1>
-  <!-- <p>🔪 Swiss Army Knife for Developers 🤖</p> -->
 </div>
 
 <p align="center">
